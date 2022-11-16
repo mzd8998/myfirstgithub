@@ -1,3 +1,5 @@
 iport numpy as np
 zero_01 = np.zeros(4,3)
+one= np.ones(4,3)
 print(zero_01)
+print(one)
